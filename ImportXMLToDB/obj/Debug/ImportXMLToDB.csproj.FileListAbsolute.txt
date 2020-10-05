@@ -1,0 +1,10 @@
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\bin\Debug\ImportXMLToDB.exe.config
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\bin\Debug\ImportXMLToDB.exe
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\bin\Debug\ImportXMLToDB.pdb
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\obj\Debug\ImportXMLToDB.csprojAssemblyReference.cache
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\obj\Debug\ImportXMLToDB.ImportFromXML.resources
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\obj\Debug\ImportXMLToDB.Properties.Resources.resources
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\obj\Debug\ImportXMLToDB.csproj.GenerateResource.cache
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\obj\Debug\ImportXMLToDB.csproj.CoreCompileInputs.cache
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\obj\Debug\ImportXMLToDB.exe
+C:\Users\orion\Desktop\Programming\C#_desktop\WindowsForm_TZ\ImportFromXMLToDB\ImportXMLToDB\obj\Debug\ImportXMLToDB.pdb
